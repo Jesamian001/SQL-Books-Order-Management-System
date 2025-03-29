@@ -1,4 +1,4 @@
-# SQL-Books-Order-Management-System
+# SQL PROJECT-Books-Order-Management-System
 This project analyzes a database Book Order Management System to answer key business questions and extract valuable insights.
 ![introduction](https://github.com/user-attachments/assets/d2941914-1618-45b3-b078-e77f4b1ac2cf)
 
