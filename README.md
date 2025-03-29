@@ -1,9 +1,14 @@
 # SQL PROJECT-Books-Order-Management-System
 This project analyzes a database Book Order Management System to answer key business questions and extract valuable insights.
-![introduction](https://github.com/user-attachments/assets/d2941914-1618-45b3-b078-e77f4b1ac2cf)
+![title github](https://github.com/user-attachments/assets/c823ee7a-239d-4a95-9ac9-457236e71c16)
+![introduction](https://github.com/user-attachments/assets/5d9f6976-f343-4f5b-8ad0-ac3b745670d7)
+
+
 
 ## DATABASE SCHEMA IMAGE
-![books schema](https://github.com/user-attachments/assets/262b0924-2ec7-418c-8e7c-eef22571958f)
+![books schema](https://github.com/user-attachments/assets/61df98fa-265a-4630-b7c7-94e498fd0db9)
+
+
 
 ## DATABASE SCHEMA SQL QUERY
 ```sql
@@ -39,8 +44,9 @@ CREATE TABLE Orders (
 );
 ```
 ## Business Questions
-![set 1 books question](https://github.com/user-attachments/assets/59c8c5de-7620-46c3-b4f4-1d8763d9e332)
-![Set 2 Business Questions](https://github.com/user-attachments/assets/b297ac11-4cc3-4aaf-985d-2fabcddd78f5)
+![set 1 books question](https://github.com/user-attachments/assets/4bf4aaa4-03bf-4002-8fb8-e743e4efe93d)
+![Set 2 Business Questions](https://github.com/user-attachments/assets/73f26a76-0b4c-4053-b493-a454a2fb2b54)
+
 
 ## SET 1:Business Problems and Solutions
 
@@ -256,6 +262,20 @@ ORDER BY SUM(o.Quantity) DESC
 LIMIT 1;
 ```
 **Objective:** To determine which specific book has sold the highest quantity, providing insight into the best-performing book.
+
+## Overall Insights:
+
+1). *Sales Trends:* The data analysis can help identify which books, genres, and authors are the most popular, allowing for targeted marketing and inventory management.
+
+2). *Customer Demographics:* Insights into repeat customers, geographic locations, and high-spending customers help create a personalized approach to customer retention and segmentation strategies.
+
+3). *Revenue and Profit Maximization:* Understanding which books are generating the highest revenue and which customers are the most valuable provides opportunities for business growth.
+
+4). *Inventory Optimization:* By tracking stock levels and sales performance, the system can optimize inventory management to ensure that high-demand books are always available and prevent overstocking low-demand books.
+
+5). *Business Planning:* The information on average book prices, total revenue, and best-selling titles can inform business strategies related to pricing, product offerings, and promotional efforts.
+
+In summary, this analysis enables better decision-making in areas like inventory management, marketing, customer relations, and financial performance.
 
 
 
